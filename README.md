@@ -177,6 +177,7 @@ Most are included in our survey, and we also list them here.
 - CTRL: A Conditional Transformer Language Model for Controllable Generation, arXiv 2019. [[paper]](https://arxiv.org/pdf/1909.05858.pdf)
 - Defending Against Neural Fake News, NeurIPS 2019. (about conditional generation of neural fake news) [[paper]](https://arxiv.org/pdf/1905.12616.pdf)
 - Plug and Play Language Models: A Simple Approach to Controlled Text Generation, ICLR 2020. [[paper]](https://openreview.net/pdf?id=H1edEyBKDS)
+- Data-to-text Generation with Style Imitation, Findings of EMNLP 2020, [[paper]](https://arxiv.org/abs/1901.09501)
 - Exploring Controllable Text Generation Techniques, COLING 2020, [[paper]](https://arxiv.org/pdf/2005.01822.pdf)
 
 **Unsupervised machine translation**
